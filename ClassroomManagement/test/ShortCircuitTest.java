@@ -1,4 +1,4 @@
-package Group7_Test.test;
+package ClassroomManagement.test;
 
 public class ShortCircuitTest {
     

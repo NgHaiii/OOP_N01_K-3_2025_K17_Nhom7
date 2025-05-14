@@ -10,4 +10,4 @@ Classroom: Đại diện cho lớp học, chứa className, một Teacher, và d
 Score: điểm số của học sinh, gồm id của student, subject và score.
 
 Link Git repo (Câu 3, 4, 5): https://github.com/NgHaiii/OOP_N01_K-3_2025_K17_Nhom7/tree/nhanhcuaLam
-Link README: 
+Link README: https://github.com/NgHaiii/OOP_N01_K-3_2025_K17_Nhom7/blob/nhanhcuaLam/README.md

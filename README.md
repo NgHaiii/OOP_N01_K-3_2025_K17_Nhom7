@@ -70,7 +70,7 @@ CÔNG NGHỆ SỬ DỤNG:
 
 		+ Spring Boot
 
-		+Netbeans + Maven / Gradle
+		+ Netbeans + Maven / Gradle
 
 		+ SQLite
 

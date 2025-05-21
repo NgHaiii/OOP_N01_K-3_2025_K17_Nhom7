@@ -36,6 +36,7 @@ Liệt kê danh sách học sinh, có thể lọc theo:
 	- Sử dụng ObjectOutputStream và ObjectInputStream để ghi và đọc dữ liệu.
 
  	- Cần tạo các lớp hỗ trợ đọc/ghi dữ liệu cho:
+
 			+ Student
 
 			+ Classroom
@@ -62,7 +63,7 @@ Thống kê số lượng học sinh trong từng lớp.
 
 Xuất danh sách lớp học và học sinh ra file .csv.
 
-✅ Công nghệ sử dụng
+Công nghệ sử dụng:
 Java 24
 
 Spring Boot

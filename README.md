@@ -5,9 +5,11 @@ Xây dựng ứng dụng Quản lý Lớp học
 
 Yêu cầu:
 1. Giao diện Java Spring Boot
+
 Ứng dụng được xây dựng với Java Spring Boot, Swing (1 chút)
 
 2. Chức năng quản lý Student
+
 Thêm mới, chỉnh sửa, xóa Student (học sinh).
 
 Liệt kê danh sách học sinh, có thể lọc theo:

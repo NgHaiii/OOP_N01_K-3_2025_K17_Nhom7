@@ -88,7 +88,7 @@ Sơ đồ khối yêu cầu
 
 1.1 UML Class Diagram
 
-LINK:
+LINK:https://app.diagrams.net/#G1dLsckZxrE9f138wmn0Ynt7J9oL0G97-n#%7B%22pageId%22%3A%22EBrbo4JH7cscIni5zR0D%22%7D
 
 
 NỘI DUNG 03:
@@ -101,7 +101,8 @@ NỘI DUNG 03:
 
 1.2.
 
-LINK:
+LINK:https://app.diagrams.net/#G1zcwqCnjvxWIn2ti3BNmlht-KhtI7KNz_#%7B%22pageId%22%3A%22prtHgNgQTEPvFCAcTncT%22%7D
+    :https://app.diagrams.net/#G1GsBr8kjxS7MX7XzJt1utjlzPJKnZy_E9#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 
 

@@ -23,12 +23,15 @@ Liệt kê danh sách học sinh, có thể lọc theo:
 		+ Thêm mới, chỉnh sửa, xóa Classroom (lớp học).
 
 4. Chức năng gán Student cho Classroom
-		+ Cho phép gán học sinh vào lớp học.
+
+
+   		+ Cho phép gán học sinh vào lớp học.
 
 		+ Mỗi học sinh có thể thuộc một hoặc nhiều lớp (tùy thiết kế).
 
-5. Lưu trữ dữ liệu xuống file nhị phân
-	- Dữ liệu từ chương trình được lưu vào file nhị phân (db)
+6. Lưu trữ dữ liệu xuống file nhị phân
+
+ 	- Dữ liệu từ chương trình được lưu vào file nhị phân (db)
 
 	- Sử dụng ObjectOutputStream và ObjectInputStream để ghi và đọc dữ liệu.
 
@@ -39,7 +42,7 @@ Liệt kê danh sách học sinh, có thể lọc theo:
 
 			+ Teacher (người phụ trách lớp hoặc giảng dạy)
 
-6. Quản lý dữ liệu trong bộ nhớ bằng Collection
+7. Quản lý dữ liệu trong bộ nhớ bằng Collection
 Dữ liệu được lưu trữ và thao tác trong chương trình bằng các cấu trúc:
 
 	+ ArrayList<Student>
@@ -50,7 +53,7 @@ Dữ liệu được lưu trữ và thao tác trong chương trình bằng các 
 
 	+ Map<Teacher, List<Classroom>>, v.v.
 
-7. Chức năng mở rộng (tùy chọn)
+8. Chức năng mở rộng (tùy chọn)
 Quản lý giáo viên (Teacher): thêm/sửa/xóa, gán giáo viên cho lớp.
 
 Tìm kiếm học sinh theo tên, mã số.

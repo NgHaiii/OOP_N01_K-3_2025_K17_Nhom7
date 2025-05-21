@@ -1,4 +1,5 @@
 Bài tập lớn cuối kỳ - Môn Lập trình hướng đối tượng
+
 Nội dung 01:
 Xây dựng ứng dụng Quản lý Lớp học
 
@@ -11,7 +12,7 @@ Thêm mới, chỉnh sửa, xóa Student (học sinh).
 
 Liệt kê danh sách học sinh, có thể lọc theo:
 
-  	+ Tên học sinh
+  		+ Tên học sinh
 
 		+ Tuổi
 
@@ -72,7 +73,7 @@ Netbeans + Maven / Gradle
 
 SQLite
 
-File I/O (Binary file)
+File I/O (Binary file, db hoặc dat)
 
 IDE: VSCode, Netbeans
 

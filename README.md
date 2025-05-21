@@ -79,12 +79,28 @@ IDE: VSCode, Netbeans
 
 
 
+NỘI DUNG 02:
+
+Sơ đồ khối yêu cầu
+
+1.1 UML Class Diagram
+
+
+
+
+NỘI DUNG 03:
+03 sơ đồ Behavioural Diagram của bài tập lớn
++ Sequence Diagram
++ Or Activity Diagram
+
+1.2.
 
 
 
 
 
 
+-------------------------------------------------------------------------------------
 
 
 BÀI TẬP CŨ:

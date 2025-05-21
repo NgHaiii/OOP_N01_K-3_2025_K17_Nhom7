@@ -1,3 +1,89 @@
+Bài tập lớn cuối kỳ - Môn Lập trình hướng đối tượng
+Nội dung 01:
+Xây dựng ứng dụng Quản lý Lớp học
+
+Yêu cầu:
+1. Giao diện Java Spring Boot
+Ứng dụng được xây dựng với Java Spring Boot, Swing (1 chút)
+
+2. Chức năng quản lý Student
+Thêm mới, chỉnh sửa, xóa Student (học sinh).
+
+Liệt kê danh sách học sinh, có thể lọc theo:
+
+  	+ Tên học sinh
+
+		+ Tuổi
+
+		+ Lớp đang học
+
+		+ Trạng thái (đang học, nghỉ,...)
+
+3. Chức năng quản lý Classroom
+		+ Thêm mới, chỉnh sửa, xóa Classroom (lớp học).
+
+4. Chức năng gán Student cho Classroom
+		+ Cho phép gán học sinh vào lớp học.
+
+		+ Mỗi học sinh có thể thuộc một hoặc nhiều lớp (tùy thiết kế).
+
+5. Lưu trữ dữ liệu xuống file nhị phân
+	- Dữ liệu từ chương trình được lưu vào file nhị phân (db)
+
+	- Sử dụng ObjectOutputStream và ObjectInputStream để ghi và đọc dữ liệu.
+
+ 	- Cần tạo các lớp hỗ trợ đọc/ghi dữ liệu cho:
+			+ Student
+
+			+ Classroom
+
+			+ Teacher (người phụ trách lớp hoặc giảng dạy)
+
+6. Quản lý dữ liệu trong bộ nhớ bằng Collection
+Dữ liệu được lưu trữ và thao tác trong chương trình bằng các cấu trúc:
+
+	+ ArrayList<Student>
+
+	+ ArrayList<Classroom>
+
+	+ Map<Classroom, List<Student>>
+
+	+ Map<Teacher, List<Classroom>>, v.v.
+
+7. Chức năng mở rộng (tùy chọn)
+Quản lý giáo viên (Teacher): thêm/sửa/xóa, gán giáo viên cho lớp.
+
+Tìm kiếm học sinh theo tên, mã số.
+
+Thống kê số lượng học sinh trong từng lớp.
+
+Xuất danh sách lớp học và học sinh ra file .csv.
+
+✅ Công nghệ sử dụng
+Java 24
+
+Spring Boot
+
+Netbeans + Maven / Gradle
+
+SQLite
+
+File I/O (Binary file)
+
+IDE: VSCode, Netbeans
+
+
+
+
+
+
+
+
+
+
+
+BÀI TẬP CŨ:
+
 Câu 1 (1 điểm). Tiêu đề của bài tập lớn cuối kỳ (nhóm sinh viên) lựa chọn là gì ? 
 
 Tiêu đề: Hệ thống quản lý lớp học (Classroom Management System)

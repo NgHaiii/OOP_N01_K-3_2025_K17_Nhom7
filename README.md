@@ -64,18 +64,19 @@ Thống kê số lượng học sinh trong từng lớp.
 
 Xuất danh sách lớp học và học sinh ra file .csv.
 
-Công nghệ sử dụng:
-Java 24
+CÔNG NGHỆ SỬ DỤNG:
+		
+  		+ Java 24 
 
-Spring Boot
+		+ Spring Boot
 
-Netbeans + Maven / Gradle
+		+Netbeans + Maven / Gradle
 
-SQLite
+		+ SQLite
 
-File I/O (Binary file, db hoặc dat)
+		+ File I/O (Binary file, db hoặc dat)
 
-IDE: VSCode, Netbeans
+		+ IDE: VSCode, Netbeans
 
 
 
@@ -85,15 +86,20 @@ Sơ đồ khối yêu cầu
 
 1.1 UML Class Diagram
 
-
+LINK:
 
 
 NỘI DUNG 03:
+
 03 sơ đồ Behavioural Diagram của bài tập lớn
+
 + Sequence Diagram
++ 
 + Or Activity Diagram
 
 1.2.
+
+LINK:
 
 
 

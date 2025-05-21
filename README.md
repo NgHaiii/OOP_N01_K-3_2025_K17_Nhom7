@@ -58,11 +58,11 @@ Dữ liệu được lưu trữ và thao tác trong chương trình bằng các 
 8. Chức năng mở rộng (tùy chọn)
 Quản lý giáo viên (Teacher): thêm/sửa/xóa, gán giáo viên cho lớp.
 
-Tìm kiếm học sinh theo tên, mã số.
+	- Tìm kiếm học sinh theo tên, mã số.
 
-Thống kê số lượng học sinh trong từng lớp.
+	- Thống kê số lượng học sinh trong từng lớp.
 
-Xuất danh sách lớp học và học sinh ra file .csv.
+	- Xuất danh sách lớp học và học sinh ra file .csv.
 
 CÔNG NGHỆ SỬ DỤNG:
 		
